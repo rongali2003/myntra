@@ -9,6 +9,7 @@
     height: 75px;
     box-shadow: 0 10px 10px solid rgb(56, 55, 55);
     display: flex;
+    position: fixed;
     background-color: beige;
     color: rgb(19, 18, 18);
 }
